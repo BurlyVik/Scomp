@@ -7,11 +7,11 @@ Splash
 
 Tool
 
-![image](https://github.com/BurlyVik/Scomp/assets/161164589/3689b46e-51e0-4b6f-8463-0b1b3397467a)
+![image](https://github.com/BurlyVik/Scomp/assets/161164589/9b856374-7098-4aa3-8fa8-8be3ddf5f9da)
 
 Context
 
-![image](https://github.com/BurlyVik/Scomp/assets/161164589/a7638b6f-9021-4f57-ab1a-ca187abf2226)
+![image](https://github.com/BurlyVik/Scomp/assets/161164589/29b5f5cd-d08b-4390-838e-e5e93f58c3fe)
 
 About
 
