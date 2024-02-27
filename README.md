@@ -15,4 +15,5 @@ Context
 
 About
 
-![image](https://github.com/BurlyVik/Scomp/assets/161164589/20e05045-b100-46cd-b3df-bcab08446bdb)
+![image](https://github.com/BurlyVik/Scomp/assets/161164589/281d8c8e-0d91-418f-b116-c2d3c99bf9d2)
+
