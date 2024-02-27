@@ -1,3 +1,5 @@
+SHA256 Hash Generator and Comparing Utility
+
 Splash
 
 ![NVIDIA_Share_Jsk9tdaSsU](https://github.com/BurlyVik/Scomp/assets/161164589/7468c2f2-236e-415a-81cc-43511007e6ba)
